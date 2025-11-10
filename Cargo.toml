@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 authors = ["Dhiaa Eddine Bahri <dhya.bahri@proton.me>", "Malek Rihani <malek.rihani090@gmail.com>"]
 description = "Educational PLSR demo on synthetic sinusoids - discovers hidden amplitude, frequency, phase"
-license = "GPLv3"
+license = "GPL-3.0-only"
 keywords = ["plsr", "statistics", "latent-variables", "data-analysis", "data-science", "sinusoid"]
 
 [dependencies]
