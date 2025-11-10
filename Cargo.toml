@@ -11,6 +11,7 @@ keywords = ["plsr", "statistics", "latent-variables", "data-analysis", "data-sci
 ndarray = "0.17.1"
 ndarray-linalg = "0.18.0"
 ndarray-rand = "0.16.0"
+plotters = { version = "0.3.7", optional = true }
 rand = "0.9.2"
 
 
